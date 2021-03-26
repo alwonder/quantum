@@ -7,3 +7,9 @@ circuit
   .read(0, 0)
   .read(1, 1)
   .run();
+circuit.run();
+circuit.run();
+circuit.run();
+circuit.run();
+circuit.run();
+circuit.run();
